@@ -1,0 +1,8 @@
+gooddata-sdk~=1.2.0
+gooddata-pandas~=1.2.0
+
+python-dotenv~=0.21.0
+ipykernel~=6.17.1
+networkx~=2.8.8
+matplotlib~=3.6.2
+flask~=2.2.2
