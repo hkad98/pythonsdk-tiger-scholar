@@ -19,9 +19,3 @@ def workspace_copy(workspace_id: str, new_workspace_id: str):
     sdk.catalog_workspace_content.put_declarative_analytics_model(workspace_id=demo_copy.id,
                                                                   analytics_model=declarative_analytics_model)
     return "success", 200
-
-
-"""
-Run:
-flask --app flask_server run
-"""
